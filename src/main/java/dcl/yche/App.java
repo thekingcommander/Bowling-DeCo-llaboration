@@ -4,7 +4,7 @@ package dcl.yche;
  * Hello world!
  *
  */
-public class App 
+public class pp 
 {
     public static void main( String[] args )
     {
